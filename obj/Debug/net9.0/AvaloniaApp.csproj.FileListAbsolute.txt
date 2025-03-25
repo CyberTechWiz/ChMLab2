@@ -65,3 +65,4 @@
 /Users/digitalmouse/Desktop/ChMLab2/AvaloniaApp/obj/Debug/net9.0/AvaloniaApp.genruntimeconfig.cache
 /Users/digitalmouse/Desktop/ChMLab2/AvaloniaApp/obj/Debug/net9.0/ref/AvaloniaApp.dll
 /Users/digitalmouse/Desktop/ChMLab2/AvaloniaApp/bin/Debug/net9.0/NCalc.dll
+/Users/digitalmouse/Desktop/ChMLab2/AvaloniaApp/obj/Debug/net9.0/AvaloniaApp.sourcelink.json

@@ -26,6 +26,3 @@ build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
 
 [/Users/digitalmouse/Desktop/ChMLab2/AvaloniaApp/MainWindow.axaml]
 build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
-
-[/Users/digitalmouse/Desktop/ChMLab2/AvaloniaApp/Styles/ButtonStyles.axaml]
-build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml

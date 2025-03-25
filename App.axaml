@@ -6,6 +6,6 @@
 
     <Application.Styles>
         <FluentTheme />
-        <StyleInclude Source="avares://AvaloniaApp/Styles/ButtonStyles.axaml"/>
+        
     </Application.Styles>
 </Application>
